@@ -1,1 +1,1 @@
-This is a front end part of a website done using HTML, CSS, JavaScript, React, JSX. This website has a list of all the movies present you can also search and it gic=ves the movies you wanted. Styling for the posters is taking care by CSS. The src folder has all the reqired files in it.
+This is a front end part of a website done using HTML, CSS, JavaScript, React, JSX. This website has a list of all the movies present you can also search and it gives the movies you wanted. Styling for the posters is taking care by CSS. The src folder has all the reqired files in it.
